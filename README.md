@@ -1,4 +1,4 @@
 #### **graph-neural-engine**
 
-# **DecipherNet**
-##### *Detect and Translate American Sign Language (ASL) fingerspelling into text, making AI more accessible for the Deaf and Hard of Hearing community.*
+# **Graph Neural Engine**
+##### *Training a machine learning model based on the runtime data in the training dataset and predict the runtime of graphs and configurations in the test dataset.*
