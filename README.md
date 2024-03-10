@@ -1,4 +1,4 @@
-#### **graph-neural-engine**
+#### **decipher-engine**
 
-# **Graph Neural Engine**
-##### *Training a machine learning model based on the runtime data in the training dataset and predict the runtime of graphs and configurations in the test dataset.*
+# **Empowering Communication: AI-driven Sign Language Fingerspelling Recognition and Translation for Deaf Accessibility**
+##### *Detect and Translate American Sign Language (ASL) fingerspelling into text.*
